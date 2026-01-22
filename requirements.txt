@@ -1,0 +1,12 @@
+ipykernel
+scikit-learn
+numpy
+pandas
+seaborn
+flask
+streamlit
+scikit-learn
+imblearn
+openpyxl
+statsmodels
+plotly
