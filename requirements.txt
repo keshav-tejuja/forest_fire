@@ -10,3 +10,4 @@ imblearn
 openpyxl
 statsmodels
 plotly
+streamlit==1.32.0
